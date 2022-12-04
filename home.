@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <style>
+            .d1{
+                margin-top: 10px;
+            }
+            .d1,.img1{
+                width: 400px;
+                height: 300px;
+                margin: auto;
+                border: 2px solid red;
+                text-align: center;
+                align-items: center;
+                justify-content: center;
+            }
+            .d2{
+                width: 400px;
+                height: 300px;
+                margin: auto;
+                text-align: center;
+                border: 2px solid rgb(0, 38, 255);
+                background-color: rgba(221, 203, 103, 0.521);
+                color:  black;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
+    </head>
+    <html>
+    <head>
+        <style>
+            .d1{
+                margin-top: 10px;
+            }
+            .d1,.img1{
+                width: 400px;
+                height: 300px;
+                margin: auto;
+                border: 2px solid red;
+                text-align: center;
+                align-items: center;
+                justify-content: center;
+            }
+            .d2{
+                width: 400px;
+                height: 300px;
+                margin: auto;
+                text-align: center;
+                border: 2px solid rgb(0, 38, 255);
+                background-color: rgba(221, 203, 103, 0.521);
+                color:  black;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
+    </head>
+    <body style="background-image: url('https://static.vecteezy.com/system/resources/previews/001/984/880/original/abstract-colorful-geometric-overlapping-background-and-texture-free-vector.jpg'); 
+    background-repeat: no-repeat; background-attachment: fixed;">                     
+        <div class="d1">
+            <img src="https://dsarttakes.com/wp-content/uploads/2020/04/Ds-Art-Takes_featured-image_Quote-of-the-Day_by-Divvya-Nirula.jpg" 
+            class="img1">
+        </div><br>
+        <div class="d2">
+                <div class="about">
+                    <h4><b><i>KNOW MORE</i></b></h4>
+                    <p>Welcome your day with this quote and by applying the<br>
+                         "RRR"</p>
+                       <p>R-- READ <br> R-- REMEMBER <br> R-- REDRAW YOUR DAY </be></p>
+                    A new user ? <a href="/signup">Signup</a><br>
+                    Already a user? <a href="/signin">Signin</a>
+                </div>
+        </div>
+        
+    </body>
+</html>
